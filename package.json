@@ -1,0 +1,12 @@
+{
+  "name": "DarkBot",
+  "version": "1.1.1",
+  "description": "selfbot",
+  "main": "test.js",
+  "scripts": {
+  "start": "node test.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
